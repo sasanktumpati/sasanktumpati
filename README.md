@@ -1,4 +1,4 @@
-###👋 Hi there, I'm Sasank Tumpati 
+👋 Hi there, I'm Sasank Tumpati 
 
 <!--
 **sasanktumpati/sasanktumpati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
